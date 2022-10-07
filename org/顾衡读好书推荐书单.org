@@ -1,8 +1,8 @@
 * 顾衡好书榜讲解和推荐的书单
-** 讲解 [2/2]
+** 讲解 [3/3]
 *** ✔ DONE 纸的文化史
-CLOSED: [2022-09-26 Mon 12:08]
 by 罗塔尔·穆勒
 *** ✔ DONE 文明的崩塌
-CLOSED: [2022-09-26 Mon 12:08]
 by 埃里克·克莱因
+*** ✔ DONE Clean Meat: How Growing Meat Without Animals Will Revolutionize Dinner and the World
+by Paul Shapiro

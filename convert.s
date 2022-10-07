@@ -50,7 +50,7 @@ function m2p () {
 # main function
 
 if [[ $1 == "" ]]; then
-    titles=(顾衡读好书 发刊词 纸的文化史 文明的崩塌)
+    titles=(顾衡读好书 发刊词 纸的文化史 文明的崩塌 人造肉)
 else
     titles=($1)
 fi
@@ -62,6 +62,7 @@ for title in ${titles[@]}; do
             content=(${content[@]} 发刊词)
             content=(${content[@]} 纸的文化史)
             content=(${content[@]} 文明的崩塌)
+            content=(${content[@]} 人造肉)
            ;;
         发刊词)
             content=(${content[@]} 发刊词)
@@ -71,6 +72,9 @@ for title in ${titles[@]}; do
             ;;
         文明的崩塌)
             content=(${content[@]} 文明的崩塌)
+            ;;
+        人造肉)
+            content=(${content[@]} 人造肉)
             ;;
    esac
 
