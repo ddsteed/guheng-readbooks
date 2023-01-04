@@ -50,7 +50,8 @@ function m2p () {
 # main function
 
 if [[ $1 == "" ]]; then
-    titles=(顾衡读好书 发刊词 纸的文化史 文明的崩塌 人造肉)
+    titles=(顾衡读好书 元旦特辑)
+#   titles=(顾衡读好书 元旦特辑 两个幸运的人 2022考试季 第三帝国 托克维尔回忆录 作茧自缚 儒家理想的信徒 不让生育的社会 上帝之饮 拜占庭的赠礼 丝绸之路 江户时代 人造肉 文明的崩塌 纸的文化史 发刊词)
 else
     titles=($1)
 fi
@@ -63,6 +64,18 @@ for title in ${titles[@]}; do
             content=(${content[@]} 纸的文化史)
             content=(${content[@]} 文明的崩塌)
             content=(${content[@]} 人造肉)
+            content=(${content[@]} 江户时代)
+            content=(${content[@]} 丝绸之路)
+            content=(${content[@]} 拜占庭的赠礼)
+            content=(${content[@]} 上帝之饮)
+            content=(${content[@]} 不让生育的社会)
+            content=(${content[@]} 儒家理想的信徒)
+            content=(${content[@]} 作茧自缚)
+            content=(${content[@]} 托克维尔回忆录)
+            content=(${content[@]} 第三帝国)
+            content=(${content[@]} 2022考试季)
+            content=(${content[@]} 两个幸运的人)
+            content=(${content[@]} 元旦特辑)
            ;;
         发刊词)
             content=(${content[@]} 发刊词)
@@ -75,6 +88,42 @@ for title in ${titles[@]}; do
             ;;
         人造肉)
             content=(${content[@]} 人造肉)
+            ;;
+        江户时代)
+            content=(${content[@]} 江户时代)
+            ;;
+        丝绸之路)
+            content=(${content[@]} 丝绸之路)
+            ;;
+        拜占庭的赠礼)
+            content=(${content[@]} 拜占庭的赠礼)
+            ;;
+        上帝之饮)
+            content=(${content[@]} 上帝之饮)
+            ;;
+        不让生育的社会)
+            content=(${content[@]} 不让生育的社会)
+            ;;
+        儒家理想的信徒)
+            content=(${content[@]} 儒家理想的信徒)
+            ;;
+        作茧自缚)
+            content=(${content[@]} 作茧自缚)
+            ;;
+        托克维尔回忆录)
+            content=(${content[@]} 托克维尔回忆录)
+            ;;
+        第三帝国)
+            content=(${content[@]} 第三帝国)
+            ;;
+        2022考试季)
+            content=(${content[@]} 2022考试季)
+            ;;
+        两个幸运的人)
+            content=(${content[@]} 两个幸运的人)
+            ;;
+        元旦特辑)
+            content=(${content[@]} 元旦特辑)
             ;;
    esac
 

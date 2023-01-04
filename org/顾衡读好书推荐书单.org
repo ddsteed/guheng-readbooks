@@ -1,8 +1,46 @@
 * 顾衡好书榜讲解和推荐的书单
-** 讲解 [3/3]
+** 讲解 [11/12]
 *** ✔ DONE 纸的文化史
 by 罗塔尔·穆勒
 *** ✔ DONE 文明的崩塌
 by 埃里克·克莱因
 *** ✔ DONE Clean Meat: How Growing Meat Without Animals Will Revolutionize Dinner and the World
 by Paul Shapiro
+*** ✔ DONE 江户时代
+by 北岛正元
+*** ✔ DONE 丝绸之路与唐帝国
+by 森安孝夫
+*** Sailing from Byzantium: How a Lost Empire Shaped the World (拜占庭的赠礼)
+ by Colin Wells (科林.韦尔斯)
+*** ✔ DONE 上帝之饮：六个瓶子里的历史
+by 汤姆.斯丹迪奇
+*** ✔ DONE 不让生育的社会
+by 小林美希
+*** ⚑ WAIT 王莽:儒家理想的信徒
+by 东晋次
+*** ✔ DONE 作茧自缚
+by 詹姆斯.斯科特
+*** ✔ DONE 托克维尔回忆录
+by 托克维尔
+*** ✔ DONE 第三帝国的到来
+by 理查德.埃文斯
+*** ✔ DONE 两个幸运的人
+by 米尔顿.弗里德曼
+
+** 推荐 [8/8]
+*** ✔ DONE 中世纪人
+by 艾琳.鲍尔
+*** ✔ DONE 吃动物
+by 乔纳森.弗尔
+*** ✔ DONE Zoopolis a political theory of animal rights
+by Sue Donaldson & Will Kymlicka
+*** ✔ DONE 人类的旅程：基因的奥德赛之旅
+ by 斯宾塞.韦尔斯
+*** ✔ DONE 经济学的思维方式
+by 托马斯.索维尔
+*** ✔ DONE 奥古斯都：从革命者到皇帝
+by 阿德里安.戈兹沃西
+*** ✔ DONE 命运攸关的抉择：1940-1941年间改变世界的十个决策
+by 伊恩.克肖
+*** ✔ DONE 货币之惑：华尔街复苏与美国经济萧条的逻辑
+by 乔治.吉尔德
