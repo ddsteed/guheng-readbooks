@@ -1,5 +1,5 @@
-* 顾衡好书榜讲解和推荐的书单
-** 讲解 [11/12]
+* 《顾衡读好书》讲解和推荐的书单
+** 讲解 [26/29]
 *** ✔ DONE 纸的文化史
 by 罗塔尔·穆勒
 *** ✔ DONE 文明的崩塌
@@ -10,7 +10,7 @@ by Paul Shapiro
 by 北岛正元
 *** ✔ DONE 丝绸之路与唐帝国
 by 森安孝夫
-*** Sailing from Byzantium: How a Lost Empire Shaped the World (拜占庭的赠礼)
+*** ✔ DONE Sailing from Byzantium: How a Lost Empire Shaped the World (拜占庭的赠礼)
  by Colin Wells (科林.韦尔斯)
 *** ✔ DONE 上帝之饮：六个瓶子里的历史
 by 汤姆.斯丹迪奇
@@ -26,8 +26,40 @@ by 托克维尔
 by 理查德.埃文斯
 *** ✔ DONE 两个幸运的人
 by 米尔顿.弗里德曼
+*** ✔ DONE 议事的科学
+by 坂井丰贵
+*** ✔ DONE 美国大萧条
+by 穆雷.罗斯巴德
+*** ✔ DONE 卡路里与束身衣
+by 路易斯.福克斯克罗夫特
+*** ✔ DONE six thousand years of bread
+by H. E. Jacob
+*** ✔ DONE 物流改变世界历史
+by 玉木俊明 
+*** ✔ DONE 制造消费者：消费主义全球史
+by 安东尼.加卢佐
+*** ✔ DONE 历史的针脚
+by 露西.阿德灵顿
+*** ✔ DONE 罗马共和国
+by 戴维.格温
+*** ⚑ WAIT 恺撒：罗马巨人
+by 拉尔斯.布朗沃思
+*** ⚑ WAIT 罗马帝国史
+by 托马斯.凯特利
+*** ✔ DONE 皇帝：查理五世传
+by 杰弗里.帕克
+*** ✔ DONE ✔ 追逐荣耀
+by 蒂莫西.布莱宁
+*** ✔ DONE 守卫生活：简.雅各布斯传
+by 罗伯特.卡尼格尔
+*** ✔ DONE Freedom's law: The Moral Reading of The American
+by Ronald Dworkin
+*** ✔ DONE 超级社会：一万年来人类的竞争与合作之路
+by 彼得.图尔钦
+*** ✔ DONE 雄性衰落
+by 菲利普.津巴多
 
-** 推荐 [8/8]
+** 推荐 [10/10]
 *** ✔ DONE 中世纪人
 by 艾琳.鲍尔
 *** ✔ DONE 吃动物
@@ -44,3 +76,7 @@ by 阿德里安.戈兹沃西
 by 伊恩.克肖
 *** ✔ DONE 货币之惑：华尔街复苏与美国经济萧条的逻辑
 by 乔治.吉尔德
+*** ✔ DONE 货币制度的世界史
+by 黑田明伸
+*** ✔ DONE 科学史及其与哲学和宗教的关系
+by W. C. 丹皮尔

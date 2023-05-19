@@ -9,10 +9,10 @@ function substitute () {
 
     sed -e '8,$s/\([^\#]|[^\.]|[^a-z]|[^\-]|[^\>]\) /\1/g' \
         -e '8,$s/,/，/g' \
-        -e '8,$s/．/./g' \
+        -e '8,$s/．/·/g' \
         -e '8,$s/⋯⋯/....../g' \
         -e '8,$s/⋯/....../g' \
-        -e '8,$s/•/./g' \
+        -e '8,$s/•/·/g' \
         -e '8,$s/;/；/g' \
         -e '8,$s/?/？/g' \
         -e '8,$s/!/！/g' \
@@ -50,8 +50,8 @@ function m2p () {
 # main function
 
 if [[ $1 == "" ]]; then
-    titles=(顾衡读好书 元旦特辑)
-#   titles=(顾衡读好书 元旦特辑 两个幸运的人 2022考试季 第三帝国 托克维尔回忆录 作茧自缚 儒家理想的信徒 不让生育的社会 上帝之饮 拜占庭的赠礼 丝绸之路 江户时代 人造肉 文明的崩塌 纸的文化史 发刊词)
+    titles=(顾衡读好书 雄性衰落)
+#   titles=(顾衡读好书 雄性衰落 超级社会 自由的法 追逐荣耀 七年战争 查理五世 罗马帝国史 奥古斯都 恺撒 罗马共和国 历史的针脚 制造消费者 物流改变世界历史 了不起的面包 卡路里与束身衣 美国大萧条 议事的科学 元旦特辑 两个幸运的人 2022考试季 第三帝国 托克维尔回忆录 作茧自缚 儒家理想的信徒 不让生育的社会 上帝之饮 拜占庭的赠礼 丝绸之路 江户时代 人造肉 文明的崩塌 纸的文化史 发刊词)
 else
     titles=($1)
 fi
@@ -76,6 +76,24 @@ for title in ${titles[@]}; do
             content=(${content[@]} 2022考试季)
             content=(${content[@]} 两个幸运的人)
             content=(${content[@]} 元旦特辑)
+            content=(${content[@]} 议事的科学)
+            content=(${content[@]} 美国大萧条)
+            content=(${content[@]} 卡路里与束身衣)
+            content=(${content[@]} 了不起的面包)
+            content=(${content[@]} 物流改变世界历史)
+            content=(${content[@]} 制造消费者)
+            content=(${content[@]} 历史的针脚)
+            content=(${content[@]} 罗马共和国)
+            content=(${content[@]} 恺撒)
+            content=(${content[@]} 奥古斯都)
+            content=(${content[@]} 罗马帝国史)
+            content=(${content[@]} 查理五世)
+            content=(${content[@]} 七年战争)
+            content=(${content[@]} 追逐荣耀)
+            content=(${content[@]} 雅各布斯)
+            content=(${content[@]} 自由的法)
+            content=(${content[@]} 超级社会)
+            content=(${content[@]} 雄性衰落)
            ;;
         发刊词)
             content=(${content[@]} 发刊词)
@@ -124,6 +142,60 @@ for title in ${titles[@]}; do
             ;;
         元旦特辑)
             content=(${content[@]} 元旦特辑)
+            ;;
+        议事的科学)
+            content=(${content[@]} 议事的科学)
+            ;;
+        美国大萧条)
+            content=(${content[@]} 美国大萧条)
+            ;;
+        卡路里与束身衣)
+            content=(${content[@]} 卡路里与束身衣)
+            ;;
+        了不起的面包)
+            content=(${content[@]} 了不起的面包)
+            ;;
+        物流改变世界历史)
+            content=(${content[@]} 物流改变世界历史)
+            ;;
+        制造消费者)
+            content=(${content[@]} 制造消费者)
+            ;;
+        历史的针脚)
+            content=(${content[@]} 历史的针脚)
+            ;;
+        罗马共和国)
+            content=(${content[@]} 罗马共和国)
+            ;;
+        恺撒)
+            content=(${content[@]} 恺撒)
+            ;;
+        奥古斯都)
+            content=(${content[@]} 奥古斯都)
+            ;;
+        罗马帝国史)
+            content=(${content[@]} 罗马帝国史)
+            ;;
+        查理五世)
+            content=(${content[@]} 查理五世)
+            ;;
+        七年战争)
+            content=(${content[@]} 七年战争)
+            ;;
+        追逐荣耀)
+            content=(${content[@]} 追逐荣耀)
+            ;;
+        雅各布斯)
+            content=(${content[@]} 雅各布斯)
+            ;;
+        自由的法)
+            content=(${content[@]} 自由的法)
+            ;;
+        超级社会)
+            content=(${content[@]} 超级社会)
+            ;;
+        雄性衰落)
+            content=(${content[@]} 雄性衰落)
             ;;
    esac
 
